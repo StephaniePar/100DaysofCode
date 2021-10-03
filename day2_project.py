@@ -9,7 +9,7 @@ bill_subtotal = input("What was the total of your bill?\n")
 tip_amount = input("How much do you want to tip? \n (most tip 10%, 12%, 15% or 20%)\n")
 bill_split = input("How many people will split this bill?\n")
 
-bill_subtotal = int(bill_subtotal) 
+bill_subtotal = float(bill_subtotal) 
 tip_amount = float(tip_amount) 
 bill_split = int(bill_split)
 tip_amount = tip_amount/100
