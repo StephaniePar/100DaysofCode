@@ -18,5 +18,5 @@ def over_wall():
     move()
     turn_left()
 
-for n in range(1,7):
+for n in range(6):
     over_wall()
