@@ -1,4 +1,5 @@
 #My solution for Maze Go to: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
+# It even solves the 3 problem world examples she gives
 # My Maze Project Solution:
 def turn_right():
     turn_left()
